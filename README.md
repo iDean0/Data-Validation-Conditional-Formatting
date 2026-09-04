@@ -1,7 +1,7 @@
 # Data Validation & Conditional Formatting
 
 ## Project Overview
-This project focuses on improving data quality and analysis clarity for an **employee performance dataset** using Excel's **Data Validation**, **formulas (IFS)**, **sorting**, and **Conditional Formatting**.
+This project focuses on improving data quality and analysis clarity for an employee performance dataset using Excel's **Data Validation**, **formulas (IFS)**, **sorting**, and **Conditional Formatting**.
 
 The goal was to move beyond "getting a formula to work" and instead ensure the *results made logical sense* catching and correcting a classification inconsistency in the process.
 
