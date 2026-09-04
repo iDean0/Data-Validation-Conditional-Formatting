@@ -5,6 +5,9 @@ This project focuses on improving data quality and analysis clarity for an **emp
 
 The goal was to move beyond "getting a formula to work" and instead ensure the *results made logical sense* catching and correcting a classification inconsistency in the process.
 
+## Dataset Used
+https://docs.google.com/spreadsheets/d/149LYL_yaqPIY65phyZPTSxUwA7AO_M51/edit?usp=drive_link&ouid=103814864329517668880&rtpof=true&sd=true
+
 ## What Was Done
 <img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/fb282ea5-404b-4151-a7c6-98f69432b45c" />
 
